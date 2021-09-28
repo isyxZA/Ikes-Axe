@@ -1,2 +1,3 @@
 # Ikes-Axe
-2D physics platformer
+
+2D physics platformer developed in Gamemaker Studio 1.4
